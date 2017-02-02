@@ -1,0 +1,1 @@
+docker run -d --name ygmongotest mongo:latest
